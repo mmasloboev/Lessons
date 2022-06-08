@@ -1,4 +1,5 @@
 package shapes;
 
-public class Pentagon {
+public class Pentagon extends Shapes {
+
 }

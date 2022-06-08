@@ -1,4 +1,4 @@
 package shapes;
 
-public class Circle {
+public class Circle extends Shapes {
 }
